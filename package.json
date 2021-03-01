@@ -1,0 +1,17 @@
+{
+	"author": "Voltaism",
+	"version": "1.0",
+        "onset_build": "1.4.3",
+        "server_scripts": [
+                "config.lua",
+                "server/vnpcs.lua"
+        ],
+        "client_scripts": [
+                "config.lua",
+                "client/cl_vnpcs.lua"
+        ],
+        "files": [
+                "client/vnpcs.pak"
+        ]
+
+}
