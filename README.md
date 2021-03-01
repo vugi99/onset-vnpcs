@@ -1,2 +1,6 @@
 # onset-vnpcs
-A library to add synced NPCs pathfinding.
+
+
+### [Setup](https://github.com/vugi99/onset-vnpcs/wiki/Setup)
+
+### [Wiki](https://github.com/vugi99/onset-vnpcs/wiki)
